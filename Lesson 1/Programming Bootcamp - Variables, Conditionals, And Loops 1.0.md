@@ -18,10 +18,6 @@ In this lesson we went over the following:
     ```powershell
     cd Lesson1
     ```
-- Changing current directory/folder
-    ```powershell
-    cd Lesson1
-    ```
 - Making a .Net Core Console App
     ```powershell
     dotnet new console
@@ -108,7 +104,7 @@ This code prints the following to the console.
 +---+---+---+
 ```
 
-## Chalenge
+## Challenge
 
 Write a program in C# that will print a stair case of variable height to the console.
 
