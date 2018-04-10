@@ -16,7 +16,7 @@ This probably sounds daunting at first, but I think we can handle it as a team.
 
 ## On Your Own
 
-When I read technical articles, I usually read them three times. 
+When I read technical articles, I usually read them three times.
 
 I read them the first time at my normal reading pace, not really pausing to make sure I comprehend every word and phrase. If I did that, I'd be reading for hours. Then, I'll take a moment to think about what I really wanted to know from the article. 
 
