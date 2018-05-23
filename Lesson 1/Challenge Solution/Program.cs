@@ -50,12 +50,14 @@ namespace Lesson_1
                 // Since we don't need to use "height" later on, we can loop over it until it reaches "0".
                 while (height < 0)
                 {
+                    // Print the walls.
                     for (var i = height; i < 0; i++)
                     {
                         Console.Write("|   ");
                     }
                     Console.WriteLine("|");
 
+                    // Then print the tops.
                     for (var i = height; i < 0; i++)
                     {
                         Console.Write("+---");
