@@ -143,7 +143,7 @@ Here is the expected output for a staircase of `var height = 3;`.
 +---+---+---+
 ```
 
-As a bonus, take a look at what happens when `var height = 0;` or when it is a negative number. Can you make the stairs print upsidedown for negative heights? How can you make the code as simple as possible while still keeping it readable?
+As a bonus, take a look at what happens when `var height = 0;` or when it is a negative number. Can you make the stairs print upside-down for negative heights? How can you make the code as simple as possible while still keeping it readable?
 
 Good luck! As always, feel free to message me in the discord for any questions!
 
@@ -151,11 +151,11 @@ Good luck! As always, feel free to message me in the discord for any questions!
 
 Because we had so little time during our meeting, I think it would be worth it to learn some other basics online. In this way, we can tackle bigger challenges as a group.
 
-I am linking the [Microsoft C# tutorial series](https://docs.microsoft.com/en-us/dotnet/csharp/quick-starts/index). I would like you to read the three folowing sections:
+I am linking the [Microsoft C# tutorial series](https://docs.microsoft.com/en-us/dotnet/csharp/quick-starts/index). I would like you to read the three following sections:
 
 - Interpolated strings
 - List collection
-- Introduciton to classes
+- Introduction to classes
 
 [https://docs.microsoft.com/en-us/dotnet/csharp/quick-starts/index](https://docs.microsoft.com/en-us/dotnet/csharp/quick-starts/index)
 
